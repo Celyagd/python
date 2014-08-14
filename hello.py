@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 """
-Mon premier programme python.
+Affiche "hello world!" sur l'écran.
 """
 print "hello world!"
